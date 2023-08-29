@@ -19,7 +19,7 @@ def get_nessus_agents(api_url, access_key, secret_key):
 
 api_url = 'https://example.ing.com/scanners/1/agents'
 access_key = 'MAMA59SFODNN7EXAMPLE'
-secret_key = 'bPxRfiCYEXAMPLEKEY'
+secret_key = 'T7ehjUJmk1DYdhu5HVQYbpe9nc417HHZTzHYUFW2yIKbPLvGvBJARF1H9UISfpTD'
 
 agents = get_nessus_agents(api_url, access_key, secret_key)
 if agents is not None:
